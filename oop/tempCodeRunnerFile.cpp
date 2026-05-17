@@ -1,0 +1,2 @@
+s.setData();
+    s.showData();
